@@ -112,15 +112,6 @@ header::after {
     }
 }
 
-@keyframes textShadowFade {
-    0%, 100% {
-        text-shadow: 2px 2px 0 #000, 4px 4px 0 #ff0000;
-    }
-    50% {
-        text-shadow: 1px 1px 0 #000, 2px 2px 0 #ff0000;
-    }
-}
-
 .game-info p {
     font-size: 18px;
     color: #ff6347; 
